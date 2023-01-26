@@ -4,6 +4,7 @@
 I'm just starting my way to become a Web Developer. I originally come from the Mechatronics industry and this is the reason for my good technical understanding.
 
 ### About me 
-- located in Munich
-- 30yrs. old
-- Talent profile https://talents.neuefische.de/profile/a6d8c65e-63e4-4fd0-88d8-30797cef157b
+- 🏠 located in Munich
+- 🧔 30yrs. old
+- 🐠 Talent profile https://talents.neuefische.de/profile/a6d8c65e-63e4-4fd0-88d8-30797cef157b
+- 💻 I use daily **html, CSS, JavaScript,**
